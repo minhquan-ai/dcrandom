@@ -1,5 +1,4 @@
 import type {NextConfig} from 'next';
-import { resolve } from 'path';
 
 const nextConfig: NextConfig = {
   reactStrictMode: true,
@@ -15,9 +14,6 @@ const nextConfig: NextConfig = {
   },
   output: 'standalone',
   transpilePackages: ['motion'],
-  turbopack: {
-    root: resolve(__dirname),
-  },
 };
 
 export default nextConfig;

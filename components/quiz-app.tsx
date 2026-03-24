@@ -13,6 +13,8 @@ import {
   BrainCircuit,
   GraduationCap,
   Sparkles,
+  Home,
+  ChevronLeft,
 } from "lucide-react";
 import historyDataRaw from "@/data/history.json";
 import biologyDataRaw from "@/data/biology.json";
@@ -129,6 +131,12 @@ export default function QuizApp() {
   const [showConfirm, setShowConfirm] = useState(false);
 
   // --- Actions ---
+  const goHome = () => {
+    setStatus("idle");
+    setAnswers({ mc: {}, tf: {}, sa: {}, essay: {} });
+    window.scrollTo(0, 0);
+  };
+
   const startQuiz = () => {
     const data = quizDataMap[subject];
 
@@ -200,23 +208,52 @@ export default function QuizApp() {
     };
   };
 
-  // --- Renderers ---
+  // --- Idle Screen (Home) ---
   if (status === "idle") {
     return (
-      <div className="min-h-screen bg-gradient-to-br from-[#eff6ff] via-[#f8f9fc] to-[#f0fdf4] animate-gradient-xy flex flex-col items-center justify-center p-4 sm:p-8">
+      <div className="min-h-screen relative overflow-hidden bg-gradient-to-br from-[#eff6ff] via-[#f8f9fc] to-[#f0fdf4] flex flex-col items-center justify-center p-4 sm:p-8">
+        {/* Animated Blobs */}
+        <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
+          <div className="animate-blob-1 absolute -top-24 -left-24 w-[420px] h-[420px] rounded-full bg-[#0084ff]/10 blur-3xl" />
+          <div className="animate-blob-2 absolute top-1/3 -right-32 w-[360px] h-[360px] rounded-full bg-[#00d084]/10 blur-3xl" />
+          <div className="animate-blob-3 absolute -bottom-20 left-1/4 w-[340px] h-[340px] rounded-full bg-[#a78bfa]/10 blur-3xl" />
+        </div>
+        {/* Floating particles */}
+        <div aria-hidden className="pointer-events-none absolute inset-0 overflow-hidden">
+          {[...Array(8)].map((_, i) => (
+            <div
+              key={i}
+              className="animate-float absolute rounded-full bg-[#0084ff]/20"
+              style={{
+                width: `${8 + (i % 4) * 5}px`,
+                height: `${8 + (i % 4) * 5}px`,
+                top: `${10 + i * 11}%`,
+                left: `${5 + i * 12}%`,
+                animationDelay: `${i * 0.8}s`,
+                animationDuration: `${5 + i * 0.5}s`,
+              }}
+            />
+          ))}
+        </div>
+
         <motion.div 
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 0.5 }}
-          className="max-w-md w-full"
+          initial={{ opacity: 0, scale: 0.95, y: 20 }}
+          animate={{ opacity: 1, scale: 1, y: 0 }}
+          transition={{ duration: 0.5, ease: "easeOut" }}
+          className="max-w-md w-full relative z-10"
         >
           {/* Selection Card */}
-          <Card className="border-0 shadow-2xl shadow-blue-900/5 bg-white rounded-3xl overflow-hidden relative">
-            <div className="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-[#0084ff] to-[#00d084]"></div>
+          <Card className="border-0 shadow-2xl shadow-blue-900/10 bg-white/90 backdrop-blur-md rounded-3xl overflow-hidden relative">
+            <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-[#0084ff] via-[#a78bfa] to-[#00d084]"></div>
             <CardHeader className="pb-6 pt-10 px-8 flex flex-col items-center text-center">
-              <div className="w-14 h-14 bg-[#0084ff] text-white rounded-2xl flex items-center justify-center mb-6 shadow-md shadow-blue-500/20">
-                <GraduationCap size={28} />
-              </div>
+              <motion.div
+                initial={{ rotate: -10, scale: 0.8 }}
+                animate={{ rotate: 0, scale: 1 }}
+                transition={{ delay: 0.2, type: "spring", stiffness: 200 }}
+                className="w-16 h-16 bg-gradient-to-br from-[#0084ff] to-[#a78bfa] text-white rounded-2xl flex items-center justify-center mb-6 shadow-lg shadow-blue-500/30"
+              >
+                <GraduationCap size={30} />
+              </motion.div>
               <CardTitle className="text-[28px] font-bold text-[#1a1f36]">
                 Bắt đầu ôn tập
               </CardTitle>
@@ -263,7 +300,7 @@ export default function QuizApp() {
             <CardFooter className="pt-4 pb-10 px-8">
               <Button
                 onClick={startQuiz}
-                className="w-full h-14 bg-[#0084ff] hover:bg-blue-600 text-white font-bold text-[16px] rounded-xl transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2"
+                className="w-full h-14 bg-gradient-to-r from-[#0084ff] to-[#a78bfa] hover:opacity-90 text-white font-bold text-[16px] rounded-xl transition-all shadow-lg shadow-blue-500/25 flex items-center justify-center gap-2"
               >
                 <Play size={20} fill="currentColor" />
                 Vào Thi Ngay
@@ -275,19 +312,40 @@ export default function QuizApp() {
     );
   }
 
+
   const isReview = status === "results";
   const score = isReview ? getScore() : null;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-[#f8f9fc] via-white to-[#eff6ff] animate-gradient-xy pb-24 font-sans">
+    <div className="min-h-screen relative overflow-hidden bg-gradient-to-br from-[#f8f9fc] via-white to-[#eff6ff] pb-24 font-sans">
+      {/* Subtle animated background for playing/review screen */}
+      <div aria-hidden className="pointer-events-none fixed inset-0 overflow-hidden -z-10">
+        <div className="animate-blob-1 absolute -top-32 -right-32 w-[500px] h-[500px] rounded-full bg-[#0084ff]/5 blur-3xl" />
+        <div className="animate-blob-2 absolute bottom-0 -left-24 w-[400px] h-[400px] rounded-full bg-[#00d084]/5 blur-3xl" />
+        <div className="animate-blob-3 absolute top-1/2 left-1/2 w-[300px] h-[300px] rounded-full bg-[#a78bfa]/4 blur-3xl" />
+      </div>
+
       {/* Sticky Header */}
       <div className="bg-white/90 backdrop-blur-md border-b border-slate-200 sticky top-0 z-40 shadow-sm">
         <div className="max-w-5xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-          <div className="flex items-center gap-3 text-[#1a1f36] font-bold text-lg">
-            <div className="w-8 h-8 bg-[#0084ff] text-white rounded-xl flex items-center justify-center shadow-sm shadow-blue-500/20">
-              <GraduationCap size={18} />
+          <div className="flex items-center gap-3">
+            {/* Nút Trang Chủ */}
+            <button
+              onClick={goHome}
+              title="Về trang chủ"
+              className="flex items-center gap-1.5 text-[13px] font-semibold text-slate-500 hover:text-[#0084ff] bg-slate-50 hover:bg-blue-50 border border-slate-200 hover:border-blue-200 px-3 py-1.5 rounded-xl transition-all duration-200 group"
+            >
+              <ChevronLeft size={16} className="group-hover:-translate-x-0.5 transition-transform" />
+              <Home size={15} />
+              <span className="hidden sm:inline">Trang chủ</span>
+            </button>
+            {/* Subject badge */}
+            <div className="flex items-center gap-2 text-[#1a1f36] font-bold text-base">
+              <div className="w-8 h-8 bg-gradient-to-br from-[#0084ff] to-[#a78bfa] text-white rounded-xl flex items-center justify-center shadow-sm shadow-blue-500/20">
+                <GraduationCap size={18} />
+              </div>
+              <span className="hidden sm:inline">Ôn Tập {subject === "history" ? "Lịch Sử" : "Sinh Học"} 11</span>
             </div>
-            <span>Ôn Tập {subject === "history" ? "Lịch Sử" : "Sinh Học"} 11</span>
           </div>
           {isReview && (
             <div className="text-[13px] font-bold text-[#166534] bg-[#f0fdf4] px-4 py-1.5 rounded-full border border-[#00d084] flex items-center gap-2">

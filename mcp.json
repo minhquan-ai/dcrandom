@@ -1,0 +1,64 @@
+{
+  "mcpServers": {
+    "StitchMCP": {
+      "$typeName": "exa.cascade_plugins_pb.CascadePluginCommandTemplate",
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://stitch.googleapis.com/mcp",
+        "--header",
+        "X-Goog-Api-Key: AQ.Ab8RN6KkWUY96eAC08L8K24puP_tuJLqomfD6QBd8HNH5Mp-cQ"
+      ],
+      "env": {
+        "NO_COLOR": "1",
+        "FORCE_COLOR": "0",
+        "npm_config_color": "false",
+        "CI": "1"
+      }
+    },
+    "apple-docs": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@kimsungwhee/apple-docs-mcp"
+      ],
+      "env": {
+        "NO_COLOR": "1",
+        "FORCE_COLOR": "0",
+        "npm_config_color": "false",
+        "CI": "1"
+      },
+      "disabled": false
+    },
+    "context7": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.context7.com/mcp"
+      ],
+      "env": {
+        "NO_COLOR": "1",
+        "FORCE_COLOR": "0",
+        "npm_config_color": "false",
+        "CI": "1"
+      }
+    },
+    "react-bits": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "reactbits-mcp-server"
+      ],
+      "disabled": true,
+      "env": {
+        "NO_COLOR": "1",
+        "FORCE_COLOR": "0",
+        "npm_config_color": "false",
+        "CI": "1"
+      }
+    }
+  },
+  "_note": "Registry cho tung du an nen cau hinh trong components.json cua du an do, khong phai o day"
+}
