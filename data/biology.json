@@ -1,0 +1,414 @@
+{
+  "multipleChoice": [
+    {
+      "id": "mc1",
+      "question": "Đặc điểm nào sau đây sai khi nói về phản xạ có điều kiện?",
+      "options": ["Được hình thành trong quá trình sống và không bền vững", "Không di truyền được, mang tính cá thể", "Có số lượng hạn chế", "Thường do vỏ não điều khiển"],
+      "answer": 2
+    },
+    {
+      "id": "mc2",
+      "question": "Phản xạ của động vật có hệ thần kinh lưới khi bị kích thích là:",
+      "options": ["Cơ thể không phản ứng", "Co toàn bộ cơ thể", "Di chuyển đi vị trí khác", "Chỉ co ở phần cơ thể bị kích thích"],
+      "answer": 1
+    },
+    {
+      "id": "mc3",
+      "question": "Hệ thần kinh dạng ống hoạt động theo nguyên tắc nào?",
+      "options": ["Phản xạ có điều kiện", "Phản xạ không điều kiện", "Phản xạ", "Không theo nguyên tắc nào"],
+      "answer": 2
+    },
+    {
+      "id": "mc4",
+      "question": "Hệ thần kinh dạng chuỗi hạch có ở những động vật như",
+      "options": ["ngành ruột khoang.", "giun dẹp, đỉa, côn trùng.", "cá, lưỡng cư, bò sát.", "chim, thú."],
+      "answer": 1
+    },
+    {
+      "id": "mc5",
+      "question": "Khi nói về hệ thần kinh ở các nhóm động vật, phát biểu nào sau đây là sai?",
+      "options": ["Động vật đơn bào chưa có hệ thần kinh.", "Hệ thần kinh dạng chuỗi hạch có ở ngành Giun đốt, Thân mềm và Chân khớp.", "Hệ thần kinh dạng ống có ở động vật có xương sống.", "Hệ thần kinh dạng lưới xuất hiện ở động vật có xương sống bậc thấp."],
+      "answer": 3
+    },
+    {
+      "id": "mc6",
+      "question": "Ý nào không đúng với cảm ứng của ruột khoang ?",
+      "options": ["Cảm ứng ở toàn bộ cơ thể.", "Toàn bộ cơ thể co lại khi bị kích thích.", "Tiêu phí nhiều năng lượng.", "Tiêu phí ít năng lượng."],
+      "answer": 3
+    },
+    {
+      "id": "mc7",
+      "question": "Khi ta lỡ chạm tay vào hòn than lửa nóng, ta có phản ứng rụt tay lại. Bộ phận tiếp nhận kích thích cảm ứng trên là:",
+      "options": ["Cơ tay.", "Thụ quan ở tay.", "Hòn than lửa nóng.", "Tủy sống."],
+      "answer": 1
+    },
+    {
+      "id": "mc8",
+      "question": "Hệ thần kinh ống gồm các phần nào?",
+      "options": ["Não và tủy sống với nhiều hạch và dây thần kinh.", "Trung ương: phân tích, tổng hợp thông tin rồi chỉ huy.", "Ngoại biên: tiếp nhận kích thích và truyền xung thần kinh.", "Trung ương (gồm não + tủy) và ngoại biên (hạch và dây thần kinh)."],
+      "answer": 3
+    },
+    {
+      "id": "mc9",
+      "question": "Động vật nào sau đây có hệ thần kinh dạng ống?",
+      "options": ["Cá, lưỡng cư, bò sát, chim và thú.", "Giun dẹp, giun tròn, giun đốt, cá sấu.", "Thủy tức, đỉa, côn trùng.", "Ruột khoang, giun tròn, giun đốt."],
+      "answer": 0
+    },
+    {
+      "id": "mc10",
+      "question": "Hiện tượng nào sau đây không phải là ví dụ về phản xạ có điều kiện?",
+      "options": ["Nóng làm người toát mồ hôi.", "Dạy chó biết đếm bằng cách sủa.", "Nghe tiếng bát đũa thì mèo chạy lại đòi ăn.", "Cá nuôi trong hồ khi nghe tiếng gõ thuyền thì nổi lên."],
+      "answer": 0
+    },
+    {
+      "id": "mc11",
+      "question": "Thuộc loại phản xạ không điều kiện là",
+      "options": ["nghe tiếng gọi “chích chích”, gà chạy tới.", "nhìn thấy quả chanh ta tiết nước bọt.", "nhìn thấy con quạ bay trên trời, gà con nấp vào cánh gà mẹ.", "hít phải bụi ta “hắt xì hơi”."],
+      "answer": 3
+    },
+    {
+      "id": "mc12",
+      "question": "Cung phản xạ tự vệ ở người gồm những thành phần nào sau đây?",
+      "options": ["Cơ quan thụ cảm, dây thần kinh hướng tâm, trung ương thần kinh, dây thần kinh ly tâm, cơ quan phản ứng.", "Cơ quan thụ cảm, trung khu thần kinh, cơ quan phản ứng.", "Cơ quan thụ cảm, dây thần kinh cảm giác, trung khu thần kinh.", "Dây thần kinh hướng tâm, trung khu thần kinh, cơ quan phản ứng."],
+      "answer": 0
+    },
+    {
+      "id": "mc13",
+      "question": "Tập tính động vật là:",
+      "options": ["Một số phản ứng trả lời các kích thích của môi trường (bên trong hoặc bên ngoài cơ thể) nhờ đó mà động vật thích nghi với môi trường sống, tồn tại và phát triển.", "Chuỗi những phản ứng trả lời các kích thích của môi trường bên ngoài cơ thể nhờ đó mà động vật thích nghi với môi trường sống, tồn tại và phát triển.", "Những phản ứng trả lời các kích thích của môi trường (bên trong hoặc bên ngoài cơ thể) nhờ đó mà động vật thích nghi với môi trường sống, tồn tại và phát triển.", "Chuỗi những phản ứng trả lời các kích thích của môi trường (bên trong hoặc bên ngoài cơ thể) nhờ đó mà động vật thích nghi với môi trường sống, tồn tại và phát triển."],
+      "answer": 3
+    },
+    {
+      "id": "mc14",
+      "question": "Tập tính bẩm sinh là những tập tính",
+      "options": ["sinh ra đã có, được di truyền từ bố mẹ, đặc trưng cho cá thể", "được di truyền từ bố mẹ, đặc trưng cho cá thể hoặc đặc trưng cho loài", "học được trong đời sống, không có tính di truyền, mang tính cá thể", "sinh ra đã có, được di truyền từ bố mẹ, đặc trưng cho loài"],
+      "answer": 3
+    },
+    {
+      "id": "mc15",
+      "question": "Tập tính học được ở động vật có chung các đặc điểm:",
+      "options": ["Suốt đời không đổi.", "Sinh ra đã có.", "Được truyền từ đời trước sang đời sau.", "Phải học trong đời sống mới có được."],
+      "answer": 3
+    },
+    {
+      "id": "mc16",
+      "question": "Tập tính ở động vật được chia thành các loại sau:",
+      "options": ["bẩm sinh, học được, hỗn hợp", "bẩm sinh, học được, học ngầm.", "bẩm sinh, hỗn hợp, vị tha.", "học được, hỗn hợp, học khôn."],
+      "answer": 0
+    },
+    {
+      "id": "mc17",
+      "question": "Chất hóa học được tiết ra từ cơ thể động vật, chất này đóng vai trò tín hiệu giúp các cá thể cùng loài có thể nhận biết và giao tiếp với nhau được gọi là",
+      "options": ["phytohormone.", "dịch tiêu hóa.", "enzyme.", "pheromone."],
+      "answer": 3
+    },
+    {
+      "id": "mc18",
+      "question": "Kiểu học tập đơn giản nhất ở động vật là",
+      "options": ["học nhận biết không gian.", "hoc liên hệ/ liên kết.", "quen nhờn.", "in vết."],
+      "answer": 2
+    },
+    {
+      "id": "mc19",
+      "question": "In vết là hình thức học tập mà con vật",
+      "options": ["sau khi được sinh ra một thời gian bám theo vật thể chuyển động mà nó nhìn thấy đầu tiên và giảm dần qua những ngày sau.", "mới sinh bám theo vật thể chuyển động mà nó nhìn thấy đầu tiên và giảm dần qua những ngày sau.", "mới sinh bám theo vật thể chuyển động mà nó nhìn thấy nhiều lần và giảm dần qua những ngày sau.", "mới sinh bám theo vật thể chuyển động mà nó nhìn thấy đầu tiên và tăng dần qua những ngày sau."],
+      "answer": 1
+    },
+    {
+      "id": "mc20",
+      "question": "Cho các đặc điểm sau, có bao nhiêu đặc điểm của tập tính bẩm sinh ? 1. Sinh ra đã có, không cần học hỏi. 2. Mang tính bản năng. 3. Có thể thay đổi theo hoàn cảnh sống. 4. Được quyết định bởi yếu tố di truyền (di truyền được).",
+      "options": ["1", "2", "3", "4"],
+      "answer": 2
+    },
+    {
+      "id": "mc21",
+      "question": "Tập tính kiếm ăn ở động vật có tổ chức hệ thần kinh phát triển chủ yếu thuộc loại tập tính nào?",
+      "options": ["Phần lớn là tập tính bẩm sinh.", "Phần lớn là tập tính học được.", "Số ít là tập tính bẩm sinh.", "Toàn là tập tính học được."],
+      "answer": 1
+    },
+    {
+      "id": "mc22",
+      "question": "Tập tính sinh sản của động vật chủ yếu thuộc loại tập tính nào?",
+      "options": ["Số ít là tập tính bẩm sinh.", "Toàn là tập tính học được.", "Phần lớn tập tính học được.", "Phần lớn là tập tính bẩm sinh."],
+      "answer": 3
+    },
+    {
+      "id": "mc23",
+      "question": "Tinh tinh con học cách đập vỡ vỏ hạt cứng bằng cách quan sát tinh tinh mẹ. Đây là ví dụ về hình thức học tập nào?",
+      "options": ["Học xã hội.", "In vết.", "Học liên hệ.", "Quen nhờn."],
+      "answer": 0
+    },
+    {
+      "id": "mc24",
+      "question": "Một con chó ban đầu sủa khi nghe chuông cửa. Tuy nhiên, sau một thời gian sống trong môi trường có nhiều tiếng chuông cửa mà không có sự kiện quan trọng xảy ra, nó không còn sủa nữa. Đây là ví dụ về hình thức học tập nào?",
+      "options": ["In vết.", "Quen nhờn.", "Học xã hội.", "Học liên hệ."],
+      "answer": 1
+    },
+    {
+      "id": "mc25",
+      "question": "Sinh trưởng ở sinh vật là",
+      "options": ["quá trình tăng kích thước và tuổi của cơ thể.", "quá trình tăng kích thước và khối lượng cơ thể.", "quá trình tăng khối lượng và tuổi của cơ thể.", "quá trình tăng thể tích và khối lượng của cơ thể."],
+      "answer": 1
+    },
+    {
+      "id": "mc26",
+      "question": "Phát triển ở sinh vật là",
+      "options": ["toàn bộ những biến đổi diễn ra bên ngoài của cá thể, bao gồm thay đổi kích thước và cân nặng.", "toàn bộ những biến đổi diễn ra bên ngoài cơ thể của cá thể, bao gồm thay đổi về số lượng tế bào, cấu trúc, hình thái và trạng thái sinh lý.", "toàn bộ những biến đổi diễn ra trong chu kì sống của cá thể, bao gồm thay đổi chiều cao, cân nặng và tuổi thọ.", "toàn bộ những biến đổi diễn ra trong chu kì sống của cá thể, bao gồm thay đổi về số lượng tế bào, cấu trúc, hình thái và trạng thái sinh lý."],
+      "answer": 3
+    },
+    {
+      "id": "mc27",
+      "question": "Vòng đời của sinh vật là",
+      "options": ["khoảng thời gian tính từ khi cơ thể được sinh ra, lớn lên, phát triển thành cơ thể trưởng thành, sinh sản tạo cá thể mới, già đi rồi chết.", "khoảng thời gian tính từ khi cơ thể được sinh ra, lớn lên, phát triển thành cơ thể trưởng thành.", "khoảng thời gian tính từ khi cơ thể được sinh ra, lớn lên, phát triển thành cơ thể trưởng thành, sinh sản tạo cá thể mới.", "khoảng thời gian tính từ khi cơ thể được sinh ra, sinh trưởng và phát triển thành cơ thể trưởng thành."],
+      "answer": 0
+    },
+    {
+      "id": "mc28",
+      "question": "Khi nói về tuổi thọ của sinh vật, phát biểu nào sau đây đúng?",
+      "options": ["Thời gian sinh trưởng của sinh vật.", "Thời gian sinh con của sinh vật.", "Thời gian tuổi già của sinh vật.", "Thời gian sống của một sinh vật."],
+      "answer": 3
+    },
+    {
+      "id": "mc29",
+      "question": "Tuổi thọ của các loài sinh vật khác nhau thì do yếu tố nào quy định?",
+      "options": ["Lối sống.", "Thức ăn.", "Môi trường sống.", "Kiểu gene."],
+      "answer": 3
+    },
+    {
+      "id": "mc30",
+      "question": "Khi nói về sự sinh trưởng và phát triển ở sinh vật. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng? I. Cây ra lá là sự phát triển của thực vật. II. Con gà tăng khối lượng từ 1,3 kg đến 3,1 kg là sự sinh trưởng của động vật. III. Phát triển là cơ sở cho sinh trưởng, sinh trưởng làm thay đổi và thúc đẩy phát triển. IV. Sinh trưởng và phát triển có liên quan mật thiết với nhau, không tách rời nhau và đan xen với nhau.",
+      "options": ["1.", "2.", "3.", "4."],
+      "answer": 2
+    },
+    {
+      "id": "mc31",
+      "question": "Khi nói về dấu hiệu biểu hiện sự sinh trưởng của động vật. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng? I. Con bò tăng khối lượng cơ thể từ 60 kg đến 120 kg. II. Con gà trống mọc mào và cựa. III. Con gà mái đẻ trứng. IV. Con trăn tăng chiều dài cơ thể thêm 22 cm.",
+      "options": ["1.", "2.", "3.", "4."],
+      "answer": 1
+    },
+    {
+      "id": "mc32",
+      "question": "Khi nói về đặc điểm sinh trưởng và phát triển ở thực vật, phát biểu nào sau đây đúng?",
+      "options": ["Quá trình sinh trưởng và phát triển từ giai đoạn ra hoa cho đến khi cây già và chết.", "Sinh trưởng và phát triển xảy ra tại một số vị trí, cơ quan trên cơ thể thực vật như ngọn thân, đỉnh cành, chóp rễ nơi có các mô phân sinh.", "Sinh trưởng và phát triển xảy ra tại tất cả cơ quan trên cơ thể thực vật làm tăng chiều cao, đường kính thân.", "Sinh trưởng không giới hạn được biểu hiện bằng sự xuất hiện và thay mới của các cơ quan như cành, lá, rễ, hoa, quả trong suốt chu kì sống của cây."],
+      "answer": 1
+    },
+    {
+      "id": "mc33",
+      "question": "Mô phân sinh ở thực vật là",
+      "options": ["nhóm các tế bào chưa phân hóa, nhưng khả năng nguyên phân rất hạn chế.", "nhóm các tế bào chưa phân hóa, có khả năng phân chia tạo tế bào mới trong suốt đời sống của thực vật.", "nhóm các tế bào chưa phân hóa, mất dần khả năng nguyên phân.", "nhóm các tế bào phân hóa, chuyên hóa về chức năng."],
+      "answer": 1
+    },
+    {
+      "id": "mc34",
+      "question": "Loại mô phân sinh nào sau đây không có ở cây một lá mầm?",
+      "options": ["Mô phân sinh bên.", "Mô phân sinh đỉnh cây.", "Mô phân sinh lóng.", "Mô phân sinh đỉnh rễ."],
+      "answer": 0
+    },
+    {
+      "id": "mc35",
+      "question": "Khi nói về sinh trưởng thứ cấp, phát biểu nào sau đây là đúng?",
+      "options": ["Sinh trưởng thứ cấp là sự gia tăng về chiều dài của cơ thể thực vật.", "Sinh trưởng thứ cấp là do hoạt động của mô phân sinh bên.", "Sinh trưởng thứ cấp có ở tất cả các loài thực vật.", "Sinh trưởng thứ cấp chỉ có ở thực vật một lá mầm."],
+      "answer": 1
+    },
+    {
+      "id": "mc36",
+      "question": "Ở cây một lá mầm, mô phân sinh gồm có",
+      "options": ["mô phân sinh đỉnh và mô phân sinh bên.", "mô phân sinh lóng và mô phân sinh bên.", "mô phân sinh đỉnh và mô phân sinh lóng.", "mô phân sinh đỉnh và mô phân sinh rễ."],
+      "answer": 2
+    },
+    {
+      "id": "mc37",
+      "question": "Các hormone kích thích sinh trưởng bao gồm",
+      "options": ["auxin, gibberellin, cytokinin.", "auxin, abscisic acid, cytokinin.", "auxin, ethylene, abscisic acid.", "auxin, gibberellin, ethylene."],
+      "answer": 0
+    },
+    {
+      "id": "mc38",
+      "question": "Loại mô phân sinh không có ở cây lúa là",
+      "options": ["mô phân sinh đỉnh rễ.", "mô phân sinh lóng.", "mô phân sinh bên.", "mô phân sinh đỉnh thân."],
+      "answer": 2
+    },
+    {
+      "id": "mc39",
+      "question": "Chất nào sau đây không phải là chất kích thích sinh trưởng?",
+      "options": ["GA.", "Kinetin.", "IAA.", "AAB"],
+      "answer": 3
+    },
+    {
+      "id": "mc40",
+      "question": "Hormone được ứng dụng để kích thích ra rễ của cành giâm, cành chiết trong nhân giống vô tính là",
+      "options": ["gibberellin.", "auxin.", "cytokinin.", "kinetin."],
+      "answer": 1
+    },
+    {
+      "id": "mc41",
+      "question": "Trong đời sống, việc sản xuất giá đỗ và làm mạch nha đã ứng dụng giai đoạn nào trong chu kì sinh trưởng và phát triển của thực vật?",
+      "options": ["Giai đoạn mọc lá, sinh trưởng mạch.", "Giai đoạn nảy mầm.", "Giai đoạn ra hoa.", "Giai đoạn tạo quả, chín."],
+      "answer": 1
+    },
+    {
+      "id": "mc42",
+      "question": "Cho các nhân tố chi phối quá trình phát triển của thực vật có hoa: I. Tuổi của cây. II. Tương quan hormone. III. Ánh sáng. IV. Nhiệt độ. V. Tương quan dinh dưỡng. Các nhân tố bên trong là:",
+      "options": ["I, II, V.", "I, II.", "I, II, IV.", "III, IV, V."],
+      "answer": 0
+    },
+    {
+      "id": "mc43",
+      "question": "Sự hoa hoa của nhiều loài thực vật phụ thuộc vào tương quan độ dài ngày và đêm gọi là quang chu kì. Thực vật đêm dài (thực vật ngày ngắn) gồm các loài cây nào sau đây?",
+      "options": ["Thanh long, cúc, mía, củ cải đường, lạc.", "Cà chua, cà tím, cà rốt, cúc và đậu tương.", "Dâu tây, cà tím, cà rốt, lạc và hành.", "Cúc, thược dược, cà tím, đậu tương và mía."],
+      "answer": 3
+    },
+    {
+      "id": "mc44",
+      "question": "Khi nói về tương quan giữa các hormone thực vật. Phát biểu nào sau đây đúng?",
+      "options": ["Tương quan chung là tương quan giữa hormone thuộc nhóm kích thích sinh trưởng với hormone thuộc nhóm ức chế sinh trưởng.", "Ở giai đoạn cây đang sinh trưởng, phát triển, hormone kích thích sinh trưởng được tổng hợp ít, khi cây chuyển sang giai đoạn sinh sản, già hóa thì hormone ức chế sinh trưởng giảm dần.", "Theo chu kì phát triển của cây, tác động của hormone kích thích có xu hướng giảm dần, trong khi tác động của hormone ức chế tăng dần. Điều này chỉ đúng đối với cây lâu năm, đối với cây 1 năm thì ngược lại.", "Khi xử lí các hormone ngoại sinh kích thích sinh trương lên cây trồng sử dụng làm thức ăn cho người và động vật với liều lượng càng nhiều càng tốt."],
+      "answer": 0
+    }
+  ],
+  "trueFalse": [
+    {
+      "id": "tf1",
+      "context": "Khi nói về sinh trưởng của thực vật, nhận định nào sau đây đúng (Đ) hoặc sai (S)?",
+      "statements": [
+        { "text": "Sinh trưởng sơ cấp giúp cây tăng trưởng về chiều cao.", "answer": true, "explanation": "Sinh trưởng sơ cấp là sự sinh trưởng do hoạt động của mô phân sinh đỉnh, làm cho cây lớn lên và cao lên." },
+        { "text": "Sinh trưởng thứ cấp xảy ra ở tất cả các loại thực vật.", "answer": false, "explanation": "Sinh trưởng thứ cấp chủ yếu xảy ra ở thực vật hai lá mầm (cây gỗ), không có ở thực vật một lá mầm." },
+        { "text": "Sinh trưởng thứ cấp chủ yếu nhờ hoạt động của mô phân sinh bên.", "answer": true, "explanation": "Mô phân sinh bên (tầng sinh bần và tầng sinh mạch) hoạt động tạo ra gỗ thứ cấp và libe thứ cấp, làm thân cây to ra." },
+        { "text": "Thực vật một lá mầm không có sinh trưởng thứ cấp.", "answer": true, "explanation": "Thực vật một lá mầm không có mô phân sinh bên nên không có sinh trưởng thứ cấp." }
+      ]
+    },
+    {
+      "id": "tf2",
+      "context": "Khi so sánh tập tính loài người và tập tính của động vật, thì tập tính ở loài người khác hẳn tập tính của động vật. Trong các nhận đinh sau nhận định nào đúng, nhận định nào sai?",
+      "statements": [
+        { "text": "Con vật hành động chủ yếu theo bản năng còn con người hành động theo trí tuệ.", "answer": true, "explanation": "Tập tính của động vật phần lớn là bẩm sinh (bản năng), trong khi con người có hệ thần kinh phát triển nên hành động chủ yếu dựa trên học tập và trí tuệ." },
+        { "text": "Sự tiến hóa về tập tính ở loài người nhanh hơn nhiều so với động vật.", "answer": true, "explanation": "Nhờ khả năng học tập, giao tiếp và truyền đạt kinh nghiệm (văn hóa, giáo dục), tập tính của con người tiến hóa rất nhanh." },
+        { "text": "Khi xã hội thay đổi, phát triển thì tập tính của loài người không cần phải thay đổi và con người vẫn tồn tại tốt trong xã hội đó.", "answer": false, "explanation": "Xã hội thay đổi đòi hỏi con người phải liên tục học hỏi và thay đổi tập tính để thích nghi." },
+        { "text": "Tập tính của con người có thể được truyền đạt và học hỏi thông qua giao tiếp, giáo dục, trong khi ở động vật, tập tính chủ yếu được truyền qua di truyền hoặc bắt chước.", "answer": true, "explanation": "Giáo dục và ngôn ngữ là phương thức truyền đạt tập tính đặc trưng và hiệu quả nhất ở con người." }
+      ]
+    },
+    {
+      "id": "tf3",
+      "context": "Khi nói về ứng dụng những hiểu biết tập tính của động vật vào đời sống. Theo lí thuyết, phát biểu sau đây đúng hay sai?",
+      "statements": [
+        { "text": "Chọn lọc, thuần dưỡng động vật hoang dã thành những vật nuôi nhưng vẫn giữ được tập tính có lợi của loài ban đầu.", "answer": true, "explanation": "Đây là ứng dụng cơ bản trong chăn nuôi, giữ lại các tập tính tốt như sinh sản, kiếm mồi." },
+        { "text": "Sử dụng pheromone nhân tạo làm chất dẫn dụ giới tính để bắt côn trùng gây hại cây ăn quả.", "answer": true, "explanation": "Pheromone giúp thu hút côn trùng vào bẫy, là biện pháp sinh học an toàn và hiệu quả." },
+        { "text": "Tăng hiệu quả học tập ở người bằng đa dạng hóa các phương pháp học tập để phù hợp với lứa tuổi, cá thể và nội dung học tập.", "answer": true, "explanation": "Áp dụng hiểu biết về sự hình thành tập tính học được để tối ưu hóa quá trình giáo dục." },
+        { "text": "Tập tính bẩm sinh của loài người có thể bị thay đổi do sự phát triển của nền văn minh và khoa học.", "answer": false, "explanation": "Tập tính bẩm sinh được quy định bởi gen, rất bền vững và khó thay đổi, nền văn minh chủ yếu tác động lên tập tính học được." }
+      ]
+    },
+    {
+      "id": "tf4",
+      "context": "Khi nói về các loại mô phân sinh ở thực vật, nhận định nào sau đây đúng (Đ) hoặc sai (S)?",
+      "statements": [
+        { "text": "Mô phân sinh đỉnh có ở chồi ngọn và chóp rễ, giúp cây tăng trưởng chiều dài.", "answer": true, "explanation": "Đây là chức năng chính của mô phân sinh đỉnh, giúp cây dài ra ở ngọn và rễ." },
+        { "text": "Mô phân sinh bên chỉ có ở thực vật hai lá mầm và giúp cây sinh trưởng thứ cấp.", "answer": true, "explanation": "Thực vật một lá mầm không có mô phân sinh bên nên không có sinh trưởng thứ cấp làm to thân." },
+        { "text": "Mô phân sinh lóng có ở tất cả các loài thực vật.", "answer": false, "explanation": "Mô phân sinh lóng chỉ đặc trưng ở thực vật một lá mầm (như lúa, ngô, tre...)." },
+        { "text": "Tất cả các mô phân sinh đều có khả năng tạo ra mô mới suốt vòng đời của cây.", "answer": true, "explanation": "Đặc trưng của mô phân sinh là chứa các tế bào chưa phân hóa, duy trì khả năng phân chia liên tục." }
+      ]
+    },
+    {
+      "id": "tf5",
+      "context": "Trên cùng một thửa ruộng, người ta trồng 2 giống lúa khác nhau ở 2 nửa của thửa ruộng. Ruộng lúa được chăm sóc kĩ lưỡng và thực hiện đúng quy định theo khuyến cáo của các chuyên gia nông nghiệp. Tuy nhiên sau khi thu hoạch, có 1 giống lúa có năng suất cao hơn. Mỗi nhận định sau đây là đúng hay sai khi nói về nguyên nhân chính dẫn đến kết quả trên.",
+      "statements": [
+        { "text": "Giống lúa khác nhau.", "answer": true, "explanation": "Năng suất được quy định chủ yếu bởi kiểu gen (giống). Cùng điều kiện chăm sóc, giống tốt hơn sẽ cho năng suất cao hơn." },
+        { "text": "Tỉ lệ nước được tưới khác nhau.", "answer": false, "explanation": "Đề bài đã nêu rõ 'chăm sóc kĩ lưỡng và thực hiện đúng quy định', nghĩa là điều kiện ngoại cảnh như nhau." },
+        { "text": "Ánh sáng nhận được hàng ngày khác nhau.", "answer": false, "explanation": "Trồng trên cùng một thửa ruộng nên điều kiện ánh sáng là tương đương." },
+        { "text": "Dinh dưỡng từ phân bón bổ sung khác nhau.", "answer": false, "explanation": "Điều kiện chăm sóc là như nhau theo khuyến cáo." }
+      ]
+    },
+    {
+      "id": "tf6",
+      "context": "Em hãy quan sát hình ảnh mặt cắt ngang của thân cây gỗ sau đây :",
+      "statements": [
+        { "text": "Các vòng gỗ đồng tâm hay còn gọi là vòng sinh trưởng", "answer": true, "explanation": "Mỗi vòng gỗ tương ứng với một năm sinh trưởng của cây." },
+        { "text": "Các vòng gỗ được hình thành là do hoạt động của tầng sinh mạch của mô phân sinh bên.", "answer": true, "explanation": "Tầng sinh mạch phân chia tạo ra mạch gỗ ở phía trong, tạo thành các vòng gỗ." },
+        { "text": "Tuổi của cây gỗ được tính dựa vào vòng năm bằng cách đếm tổng số vòng sáng cộng với vòng tối của thân.", "answer": false, "explanation": "Mỗi năm cây tạo ra 1 vòng sáng (mùa mưa) và 1 vòng tối (mùa khô). Tuổi cây bằng số vòng sáng (hoặc số vòng tối), không phải tổng của cả hai." },
+        { "text": "Có thể sử dụng vòng gỗ để tính tuổi của cây và để tìm hiểu về đặc điểm khí hậu (lượng mưa, nhiệt độ) ở địa phương nơi TV đó sinh sống.", "answer": true, "explanation": "Vòng sáng rộng cho thấy năm đó khí hậu thuận lợi (mưa nhiều), vòng tối hẹp cho thấy khí hậu khắc nghiệt." }
+      ]
+    }
+  ],
+  "shortAnswer": [
+    {
+      "id": "sa1",
+      "question": "Trong các động vật sau: Thủy tức; Đỉa; Cá; Giun tròn; Gián; Trùng roi. Có bao nhiêu loài có hệ thần kinh dạng chuỗi hạch?",
+      "answer": "2",
+      "explanation": "Đó là Đỉa (Giun đốt) và Gián (Chân khớp). Thủy tức (lưới), Cá (ống), Giun tròn (chưa có hạch rõ ràng/chuỗi hạch đơn giản), Trùng roi (chưa có)."
+    },
+    {
+      "id": "sa2",
+      "question": "Cho các dấu hiêu sau: (1) Con bò tăng khối lượng từ 50 kg đến 100 kg. (2) Con gà trống moc mào. (3) Con gà mái đẻ trứng. (4) Con rắn tăng chiều dài cơ thể thêm 20 cm. Có mấy dấu hiêu bi ểu hiên s ựsinh trưởng của đông v ât?",
+      "answer": "2",
+      "explanation": "Sinh trưởng là sự tăng kích thước, khối lượng. Gồm (1) và (4). (2) và (3) là dấu hiệu của sự phát triển."
+    },
+    {
+      "id": "sa3",
+      "question": "Khi nói về ứng dụng những hiểu biết tập tính của động vật vào đời sống. Theo lí thuyết, có bao nhiêu phát biểu sau đây đúng? I. Chọn lọc, thuần dưỡng động vật hoang dã thành những vật nuôi nhưng vẫn giữ được tập tính có lợi của loài ban đầu. II. Sử dụng pheromone nhân tạo làm chất dẫn dụ giới tính để bắt côn trùng gây hại cây ăn quả. III. Tăng hiệu quả học tập ở người bằng đa dạng hóa các phương pháp học tập để phù hợp với lứa tuổi, cá thể và nội dung học tập. IV. Tiêu diệt thiên địch gây hại cây trồng.",
+      "answer": "3",
+      "explanation": "Các phát biểu đúng là I, II, III. Phát biểu IV sai vì thiên địch là sinh vật có ích (tiêu diệt sâu hại), không nên tiêu diệt."
+    },
+    {
+      "id": "sa4",
+      "question": "Ở động vật, học tập giải quyết vấn đề là hình thức học tập trong đó cá thể sử dụng kinh nghiệm và khả năng xử lí thông tin để tìm ra cách giải quyết một tình huống mới nhằm đạt được mục đích. Có bao nhiêu ví dụ sau đây thuộc hình thức học tập này? I. Khỉ dùng que để lấy thức ăn trong hốc cây. II. Tinh tinh xếp các thùng gỗ chồng lên nhau để lấy chuối treo trên cao. III. Chó chảy nước bọt khi nghe tiếng chuông báo ăn. IV. Chim non học hót theo chim trưởng thành. V. Chuột tìm đường ra khỏi mê cung để lấy thức ăn.",
+      "answer": "2",
+      "explanation": "Gồm I và II (học khôn/giải quyết vấn đề). III là phản xạ có điều kiện, IV là học xã hội, V có thể là học ngầm hoặc thử và sai."
+    },
+    {
+      "id": "sa5",
+      "question": "Có bao nhiêu phát biểu sau đúng về đặc điểm cảm ứng ở động vật? I. Nhanh, dễ nhận thấy hơn so với thực vật. II. Chậm, khó nhận thấy hơn so với thực vật. III. Diễn ra nhanh hơn so với thực vật. IV. Chậm, dễ nhận thấy hơn so với thực vật.",
+      "answer": "2",
+      "explanation": "Cảm ứng ở động vật (nhờ hệ thần kinh) có đặc điểm là nhanh và dễ nhận thấy. Gồm I và III."
+    },
+    {
+      "id": "sa6",
+      "question": "Cho các loại mô phân sinh: mô phân sinh đỉnh, mô phân sinh lóng, mô phân sinh bên. Có bao nhiêu loại mô phân sinh có ở cả cây Một lá mầm và cây Hai lá mầm?",
+      "answer": "1",
+      "explanation": "Chỉ có mô phân sinh đỉnh là có ở cả cây một lá mầm và hai lá mầm. Mô phân sinh lóng chỉ có ở một lá mầm, mô phân sinh bên chỉ có ở hai lá mầm."
+    },
+    {
+      "id": "sa7",
+      "question": "Cho các đặc điểm sau: (1) Do tủy sống điều khiển; (2) Di truyền được, đặc trưng cho loài; (3) Mang tính bẩm sinh và bền vững; (4) Có số lượng không hạn chế. Có bao nhiêu đặc điểm của phản xạ không điều kiện?",
+      "answer": "3",
+      "explanation": "Các đặc điểm của phản xạ không điều kiện là (1), (2), (3). Đặc điểm (4) là của phản xạ có điều kiện (số lượng không hạn chế)."
+    },
+    {
+      "id": "sa8",
+      "question": "Có bao nhiêu ví dụ sau đây là hình thức học tập thông qua nhận thức và giải quyết vấn đề? I. Giải toán khó. II. Học ngoại ngữ. III. Tránh đường dây điện khi trười mưa bão. IV. Không đi tiểu tiện nơi công cộng. V. Gãi khi bị ngứa.",
+      "answer": "1",
+      "explanation": "Chỉ có I (Giải toán khó) là học tập qua nhận thức và giải quyết vấn đề. V là phản xạ không điều kiện."
+    },
+    {
+      "id": "sa9",
+      "question": "Trong các yếu tố sau: tuổi của cây, ánh sáng, nhiệt độ, tương quan dinh dưỡng, tương quan hormone. Có bao nhiêu yếu tố thuộc nhân tố bên ngoài chi phối quá trình phát triển của thực vật có hoa?",
+      "answer": "2",
+      "explanation": "Nhân tố bên ngoài gồm: ánh sáng, nhiệt độ (2 yếu tố). Tuổi cây và tương quan hormone/dinh dưỡng là nhân tố bên trong."
+    },
+    {
+      "id": "sa10",
+      "question": "Trong số các hormone thực vật sau: Ethylene, Auxin, Gibberellin, Cytokinin và Abscisic acid, có bao nhiêu hormone có vai trò chủ yếu kích thích sự chín của quả?",
+      "answer": "1",
+      "explanation": "Chỉ có Ethylene là hormone chủ yếu kích thích sự chín của quả."
+    }
+  ],
+  "essay": [
+    {
+      "id": "es1",
+      "question": "Nêu đặc điểm cấu tạo của các dạng hệ thần kinh? Giải thích tại sao: + Ở động vật bậc thấp có hệ thần kinh dạng lưới và dạng chuỗi hạch, hầu hết tập tính của chúng là tập tính bẩm sinh? + Ở động vật có hệ thần kinh dạng ống thường xuất hiện nhiều tập tính học được?",
+      "sampleAnswer": "- Hệ thần kinh dạng lưới: các tế bào thần kinh nằm rải rác trong cơ thể và liên hệ với nhau qua sợi thần kinh tạo thành mạng lưới.\n- Hệ thần kinh dạng chuỗi hạch: các tế bào thần kinh tập trung lại thành các hạch thần kinh nối với nhau bằng các dây thần kinh tạo thành chuỗi.\n- Hệ thần kinh dạng ống: tập trung thành ống nằm ở mặt lưng, phân hóa thành não và tủy sống.\nGiải thích:\n- ĐV bậc thấp có HTK đơn giản, số lượng tế bào thần kinh ít, khả năng học tập và rút kinh nghiệm kém, tuổi thọ ngắn nên tập tính chủ yếu là bẩm sinh.\n- ĐV có HTK dạng ống có não bộ phát triển, số lượng tế bào thần kinh lớn, cấu trúc phức tạp, tuổi thọ dài nên có khả năng học tập, rút kinh nghiệm cao, hình thành nhiều tập tính học được."
+    },
+    {
+      "id": "es2",
+      "question": "Ở loài chim cánh cụt Hoàng đế, các cá thể thường sống thành từng đàn lớn. Khi trời rất lạnh ở Nam Cực, chúng thường đứng sát vào nhau thành vòng tròn để giữ ấm. Những con ở ngoài sẽ lần lượt di chuyển vào trong, còn những con ở trong sẽ ra ngoài. Theo chức năng, hiện tượng trên thuộc loại tập tính gì? Tập tính này mang lại lợi ích gì cho loài?",
+      "sampleAnswer": "- Thuộc loại tập tính xã hội (hoặc tập tính bảo vệ lãnh thổ/tổ chức đàn).\n- Lợi ích: Giúp cả đàn giữ ấm, chống lại cái lạnh khắc nghiệt của Nam Cực, tăng tỉ lệ sống sót cho cả quần thể."
+    },
+    {
+      "id": "es3",
+      "question": "Ở loài chim công, vào mùa sinh sản con đực thường xòe đuôi sặc sỡ và thực hiện những điệu múa đặc biệt để thu hút con cái. Những con đực có bộ lông đẹp và màn trình diễn tốt thường được con cái lựa chọn giao phối. Theo chức năng, hiện tượng trên thuộc loại tập tính gì? Tập tính này mang lại lợi ích gì cho loài?",
+      "sampleAnswer": "- Thuộc loại tập tính sinh sản (tập tính ve vãn, khoe mẽ).\n- Lợi ích: Giúp con cái chọn được con đực khỏe mạnh, có bộ gen tốt để giao phối, đảm bảo thế hệ sau có sức sống cao, duy trì và phát triển nòi giống."
+    },
+    {
+      "id": "es4",
+      "question": "Dựa vào thuyết quang chu kì, hãy giải thích các biện pháp xử lí trong trồng trọt: a. Thắp đèn ban đêm ở các vườn trồng hoa cúc vào mùa thu. b. Thắp đèn ban đêm ở các vườn thanh long vào mùa đông. c. Bắn pháo hoa ban đêm ở các đồng mía (ở Cu ba) vào mùa đông.",
+      "sampleAnswer": "a. Hoa cúc là cây ngày ngắn (ra hoa khi đêm dài). Thắp đèn ban đêm làm ngắt quãng đêm dài, ngăn cản cúc ra hoa sớm, giúp cây sinh trưởng sinh dưỡng để đạt kích thước mong muốn, hoa to hơn và nở đúng dịp Tết.\nb. Thanh long là cây ngày dài (ra hoa khi đêm ngắn). Mùa đông đêm dài, thắp đèn ban đêm để rút ngắn thời gian tối, kích thích thanh long ra hoa trái vụ.\nc. Mía là cây ngày ngắn. Bắn pháo hoa (lóe sáng) ban đêm làm ngắt quãng đêm dài, ngăn cản mía ra hoa. Vì khi mía ra hoa sẽ làm giảm lượng đường trong thân, nên ngăn ra hoa giúp tăng năng suất và chất lượng đường."
+    }
+  ]
+}

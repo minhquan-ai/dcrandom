@@ -1,0 +1,367 @@
+{
+  "multipleChoice": [
+    {
+      "id": "mc1",
+      "question": "Trận quyết chiến chiến lược trong cuộc kháng chiến chống quân xâm lược Nam Hán năm 938 diễn ra tại",
+      "options": ["sông Bạch Đằng.", "sông Như Nguyệt.", "bến Đông Bộ Đầu.", "cửa ải Hàm Tử"],
+      "answer": 0
+    },
+    {
+      "id": "mc2",
+      "question": "Nội dung nào sau đây phản ánh không đúng nguyên nhân thắng lợi của cuộc kháng chiến chống quân Mông – Nguyên xâm lược dưới thời Trần?",
+      "options": ["Quân giặc yếu, chủ quan, không có người lãnh đạo tài giỏi.", "Nhân dân Đại Việt có tinh thần yêu nước và bền bỉ đấu tranh.", "Vua tôi nhà Trần có chính sách tích cực đúng đắn, sáng tạo.", "Tinh thần đoàn kết và ý chí quyết chiến của quân dân nhà Trần"],
+      "answer": 0
+    },
+    {
+      "id": "mc3",
+      "question": "Từ giữa thế kỷ XVI đến cuối thế kỷ XIX, nhân dân Phi-líp-pin đấu tranhchống lại thực dân nào sau đây?",
+      "options": ["Hà Lan.", "Mĩ.", "Tây Ban Nha.", "Bồ Đào Nha."],
+      "answer": 2
+    },
+    {
+      "id": "mc4",
+      "question": "Cuộc kháng chiến nào sau đây của nhân dân ta chống lại kẻ thù xâm lược không đến từ phương Đông?",
+      "options": ["Kháng chiến chống quân Thanh", "Kháng chiến chống thực dân Pháp", "Kháng chiến chống quân Tống", "Kháng chiến chống quân Mông Cổ"],
+      "answer": 1
+    },
+    {
+      "id": "mc5",
+      "question": "Lãnh đạo cuộc kháng chiến chống quân xâm lược Xiêm và Thanh cuối thế kỉ XVIII là",
+      "options": ["Trần Hưng Đạo.", "Nguyễn Huệ - Quang Trung.", "Lê Lợi.", "Ngô Quyền."],
+      "answer": 1
+    },
+    {
+      "id": "mc6",
+      "question": "Chính sách bóc lột của các nước thực dân phương Tây đã làm cho kinh tế các nước Đông Nam Á",
+      "options": ["lạc hậu.", "phát triển mạnh mẽ.", "hội nhập quốc tế.", "khủng hoảng thừa."],
+      "answer": 0
+    },
+    {
+      "id": "mc7",
+      "question": "Trong suốt tiến trình lịch sử, chiến tranh bảo vệ Tổ quốc của nhân dân Việt Nam có vai trò nào sau đây?",
+      "options": ["Góp phần bảo vệ vững chắc nền độc lập dân tộc.", "Góp phần định hình bản sắc văn hóa dân tộc Việt.", "Khẳng định Việt Nam là cường quốc về quân sự.", "Củng cố vị thế cường quốc kinh tế của Việt Nam."],
+      "answer": 0
+    },
+    {
+      "id": "mc8",
+      "question": "Dòng sông nào sau đây ba lần ghi danh quân dân Việt Nam chiến thắng quân xâm lược?",
+      "options": ["Sông Đà", "Sông Mê – công", "Sông Hồng", "Sông Bạch Đằng"],
+      "answer": 3
+    },
+    {
+      "id": "mc9",
+      "question": "Nội dung nào sau đây là nguyên nhân khách quan dẫn đến một số cuộc chiến tranh bảo vệ Tổ quốc của nhân dân Việt Nam trước năm 1945 bị thất bại?",
+      "options": ["Các phong trào đấu tranh diễn ra khi không có giai cấp lãnh đạo.", "Sai lầm trong cách tổ chức, lãnh đạo quần chúng đấu tranh.", "Giai cấp lãnh đạo không xây dựng khối đại đoàn kết toàn dân.", "Tương quan lực lượng không có lợi cho nhân dân Việt Nam."],
+      "answer": 3
+    },
+    {
+      "id": "mc10",
+      "question": "Trong cuộc kháng chiến chống Tống (1075-1077), quân và dân nhà Lý đã sử dụng nghệ thuật quân sự nào sau đây?",
+      "options": ["Vườn không nhà trống.", "Đánh nhanh, thắng nhanh.", "Chủ động tiến công.", "Vây thành, diệt viện."],
+      "answer": 2
+    },
+    {
+      "id": "mc11",
+      "question": "Trong giai đoạn đầu sau khi giành được độc lập, nhóm các nước sáng lập ASEAN thực hiện chiến lược công nghiệp hóa thay thế nhập khẩu với mục tiêu",
+      "options": ["nhanh chóng xóa bỏ nghèo nàn, lạc hậu, xây dựng kinh tế tự chủ", "nhanh chóng phát triển công nghiệp nặng, hội nhập với thế giới", "phát triển công nghiệp hướng tới xuất khẩu, phát triển ngoại thương", "phát triển công nghiệp nhẹ, lấy thị trường bên ngoài làm chỗ dựa"],
+      "answer": 0
+    },
+    {
+      "id": "mc12",
+      "question": "Năm 1945, quốc gia giành độc lập sớm nhất ở Đông Nam Á là",
+      "options": ["Campuchia.", "Việt Nam.", "Inđônêxia.", "Lào."],
+      "answer": 2
+    },
+    {
+      "id": "mc13",
+      "question": "Cuối thế kỉ XIX, Việt Nam, Lào, Campuchia đã trở thành thuộc địa của thực dân",
+      "options": ["Pháp", "Tây Ban Nha", "Bồ Đào Nha", "Anh"],
+      "answer": 0
+    },
+    {
+      "id": "mc14",
+      "question": "Một trong những đóng góp to lớn của phong trào Tây Sơn (1771-1802) đối với lịch sử dân tộc Việt Nam là",
+      "options": ["thống nhất hoàn toàn đất nước về mặt nhà nước.", "đánh tan quân xâm lược, bảo vệ nền độc lập dân tộc.", "ngăn chặn được nguy cơ Pháp xâm lược Việt Nam.", "lật đổ ách đô hộ tàn bạo của nhà Minh ở Việt Nam."],
+      "answer": 0
+    },
+    {
+      "id": "mc15",
+      "question": "Trong quá trình thực hiện chiến lược công nghiệp hóa hướng tới xuất khẩu, nhóm 5 nước sáng lập ASEAN đều",
+      "options": ["trở thành những nước công nghiệp mới.", "trở thành những con rồng kinh tế châu Á.", "dẫn đầu thế giới về xuất khẩu gạo.", "có mậu dịch đối ngoại tăng trưởng mạnh."],
+      "answer": 3
+    },
+    {
+      "id": "mc16",
+      "question": "Một trong những điểm khác biệt của cuộc khởi nghĩa Lam Sơn (1418 –1427) so với cuộc kháng chiến chống quân Tống xâm lược (1075 – 1077) là",
+      "options": ["sử dụng kế sách “vườn không nhà trống”", "sử dụng kế sách “tiên phát chế nhân”.", "diễn ra khi đất nước bị mất độc lập.", "được đông đảo nhân dân tham gia."],
+      "answer": 2
+    },
+    {
+      "id": "mc17",
+      "question": "Trong công cuộc cải cách cuối thế kỉ XIX, chính phủ Xiêm đã thực hiện chính sách nào sau đây về mặt văn hóa – giáo dục?",
+      "options": ["Thành lập các trường đại học hiện dại", "Xây dựng hệ thống luật pháp hiện đại", "Phát triển nông nghiệp và giảm thuế", "Xóa bỏ chế lao dịch và nô lệ vì nợ"],
+      "answer": 0
+    },
+    {
+      "id": "mc18",
+      "question": "Nội dung nào sau đây không phải là bài học lịch sử của các cuộc khởi nghĩa và chiến tranh giải phóng dân tộc của nhân dân ta (từ thế kỉ III TCN đến cuối thế kỉ XIX)?",
+      "options": ["Nghệ thuật quân sự đánh giặc giữ nước.", "Nâng cao sức năng lực lãnh đạo của Đảng.", "Xây dựng khối đại đoàn kết toàn dân.", "Xây dựng lực lượng chống giặc ngoại xâm."],
+      "answer": 1
+    },
+    {
+      "id": "mc19",
+      "question": "Khởi nghĩa Hai Bà Trưng (40 – 43) bùng nổ trong bối cảnh lịch sử nào sau đây?",
+      "options": ["Nhiều cuộc khởi nghĩa diễn ra trước đó đã bị thất bại", "Chính quyền nhà Đông Hán có những dấu hiệu suy yếu", "Một số vùng lãnh thổ của nước ta đã được giải phóng", "Nhà Đông Hán đặt ách cai trị nặng nề lên đất nước ta"],
+      "answer": 3
+    },
+    {
+      "id": "mc20",
+      "question": "Nguyên nhân chủ quan dẫn đến thất bại của cuộc kháng chiến chống quân Minh dưới triều Hồ và kháng chiến chống Pháp dưới triều Nguyễn là",
+      "options": ["kháng chiến không có sự lãnh đạo của triều đình.", "tương quan lực lượng chênh lệch không có lợi cho ta.", "triều đình không huy động được sức mạnh toàn dân.", "triều đình lơ là, mất cảnh giác, không có sự phòng bị."],
+      "answer": 2
+    },
+    {
+      "id": "mc21",
+      "question": "Xiêm là nước duy nhất ở Đông Nam Á giữ được độc lập tương đối về chính trị vì một trong những lí do nào sau đây?",
+      "options": ["Xiêm đã tiến hành cuộc cách mạng tư sản sớm.", "Do Xiêm là nước có tiềm lực mạnh về kinh tế.", "Do thực hiện đường lối ngoại giao mềm dẻo.", "Xiêm liên minh quân sự chặt chẽ với nước Mỹ."],
+      "answer": 2
+    },
+    {
+      "id": "mc22",
+      "question": "Cuộc khởi nghĩa của nhân dân ta thời kì Bắc thuộc đều diễn ra trong bối cảnh lịch sử nào sau đây?",
+      "options": ["Nhân dân Việt Nam đã bị đồng hóa.", "Chính quyền phương Bắc suy yếu.", "Lực lượng vũ trang của ta lớn mạnh.", "Đất nước bị mất độc lập, tự chủ."],
+      "answer": 3
+    },
+    {
+      "id": "mc23",
+      "question": "Năm 544, khởi nghĩa của Lí Bí thắng lợi đã thành lập ra nhà nước",
+      "options": ["Đại Cồ Việt.", "Vạn Xuân.", "Đại Ngu.", "Đại Việt."],
+      "answer": 1
+    },
+    {
+      "id": "mc24",
+      "question": "Các nước thực dân phương Tây xâm lược Đông Nam Á trong bối cảnh phần lớn các nước ở đây",
+      "options": ["có nền kinh tế phát triển mạnh mẽ.", "chế độ phong kiến suy thoái, khủng hoảng.", "có tình hình hình chính trị, xã hội ổn định", "chế độ phong kiến phát triển đỉnh cao."],
+      "answer": 1
+    },
+    {
+      "id": "mc25",
+      "question": "Một trong những nguyên nhân dẫn đến thắng lợi của cuộc kháng chiến chống Tống (năm 981) là do",
+      "options": ["Quân dân Tiền Lê vận dụng thành công kế sách “Tiên phát chế nhân” của nhà Lý.", "Có sự lãnh đạo của các tướng lĩnh tài ba như: Lê Sát, Lê Ngân, Nguyễn Trãi.", "Quân Tống liên tiếp thất bại nên chủ động giảng hòa với nhà Tiền Lê.", "Quân dân Tiền Lê có tinh thần yêu nước, kiên quyết đấu tranh chống ngoại xâm."],
+      "answer": 3
+    },
+    {
+      "id": "mc26",
+      "question": "Để hạn chế sự phát triển thái quá của Phật giáo, Hồ Quý Ly và nhà Hồ đã thực hiện chính sách nào sau đây?",
+      "options": ["Đánh thuế nặng đối với những người theo đạo Phật.", "Phá bỏ các đền, chùa, cơ sở thờ tự của Phật giáo.", "Nghiêm cấm việc xây dựng các đền chùa mới.", "Bắt sư tăng chưa đến 50 tuổi phải hoàn tục."],
+      "answer": 3
+    },
+    {
+      "id": "mc27",
+      "question": "Năm 1424, nghĩa quân Lam Sơn chuyển hướng vào phía nam, đánh chiếm Nghệ An, vì",
+      "options": ["Quân Minh đã rút toàn bộ quân từ Nghệ An về Thanh Hóa.", "Nghệ An là nơi hiểm yếu, đất rộng, người đông.", "Quân Minh không bố trí lực lượng chiếm giữ tại Nghệ An.", "Nghệ An là vùng đồng bằng rộng lớn, dân cư thưa thớt."],
+      "answer": 1
+    },
+    {
+      "id": "mc28",
+      "question": "Nguyễn Huệ lựa chọn đoạn sông Tiền từ Rạch Gầm đến Xoài Mút làm nơi quyết chiến với quân Xiêm, vì",
+      "options": ["Đoạn sông này chắn ngang mọi con đường tiến vào Thăng Long.", "Nơi này là biên giới tự nhiên ngăn cách lãnh thổ Việt - Xiêm.", "Quân Xiêm chỉ tiến sang xâm lược Đại Việt theo con đường thủy.", "Nơi này có địa thế hiểm trở, phù hợp cho bố trí trận địa mai phục."],
+      "answer": 3
+    },
+    {
+      "id": "mc29",
+      "question": "Cuộc khởi nghĩa Lý Bí đã",
+      "options": ["Mở ra thời kì đấu tranh giành độc lập, tự chủ của người việt.", "Giành và giữ được chính quyền độc lập trong khoảng 10 năm.", "Mở ra thời kì độc lập, tự chủ lâu dài cho dân tộc Việt Nam.", "Giành và giữ được chính quyền độc lập trong khoảng 60 năm."],
+      "answer": 1
+    },
+    {
+      "id": "mc30",
+      "question": "Năm 179 TCN, Triệu Đà đem quân tấn công Âu Lạc. Cuộc kháng chiến của nhân dân Âu Lạc đã",
+      "options": ["Thắng lợi, đập tan dã tâm xâm lược của quân Nam Việt.", "Thất bại, Âu Lạc tuy độc lập nhưng lệ thuộc vào Nam Việt.", "Thắng lợi, bảo vệ vững chắc nền độc lập của dân tộc.", "Thất bại, Âu Lạc rơi vào ách thống trị của Nam Việt."],
+      "answer": 3
+    },
+    {
+      "id": "mc31",
+      "question": "Nội dung nào sau đây KHÔNG phản ánh đúng ý nghĩa của chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam?",
+      "options": ["Góp phần hình thành những truyền thống văn hóa tốt đẹp của dân tộc.", "Góp phần khơi dậy và củng cổ tinh thần đoàn kết, lòng tự hào dân tộc.", "Quyết định con đường phát triển đất nước theo hướng tư bản chủ nghĩa.", "Để lại nhiều kinh nghiệm cho quá trình xây dựng và phát triển đất nước."],
+      "answer": 2
+    },
+    {
+      "id": "mc32",
+      "question": "Những cải cách trên lĩnh vực văn hoá, giáo dục của Hồ Quý Ly đã",
+      "options": ["Thể hiện tư tưởng tiến bộ và tinh thần dân tộc.", "Phản ánh sự lệ thuộc vào văn hóa Trung Hoa.", "Góp phần nâng cao vị thế xã hội của Phật giáo", "Khuyến khíchphát triển của Phật giáo, Đạo giáo."],
+      "answer": 0
+    },
+    {
+      "id": "mc33",
+      "question": "Cuộc chiến đấu của quân dân Việt Nam tại mặt trận Đà Nẵng (tháng 9/1858 - 2/1859) đã",
+      "options": ["Bước đầu làm thất bại kế hoạch “đánh nhanh thắng nhanh” của Pháp.", "Buộc Pháp phải chuyển sang thực hiện “chinh phục từng gói nhỏ”.", "Khiến Pháp thiệt hại nặng nề và từ bỏ tham vọng xâm lược Việt Nam.", "Làm phá sản hoàn toàn kế hoạch “đánh nhanh thắng nhanh” của Pháp."],
+      "answer": 0
+    },
+    {
+      "id": "mc34",
+      "question": "Trong nhiều thế kỉ, lãnh thổ Việt Nam thường xuyên là đối tượng nhòm ngó, can thiệp hoặc xâm lược của các thế lực bên ngoài do Việt Nam có",
+      "options": ["Nền kinh tế lạc hậu.", "Trình độ dân trí thấp.", "Vị trí địa lí chiến lược.", "Nền văn hóa lạc hậu."],
+      "answer": 2
+    },
+    {
+      "id": "mc35",
+      "question": "Cuộc cải cách của vua Lê Thánh Tông đã",
+      "options": ["Giúp giải quyết triệt để mọi mâu thuẫn trong xã hội Đại Việt đương thời.", "Giúp Đại Việt giữ vững vị thế là cường quốc hùng mạnh nhất khu vực châu Á.", "Tăng cường tiềm lực đất nước, góp phần vào chiến thắng chống quân Minh.", "Tạo cơ sở cho Vương triều Lê sơ phát triển vững mạnh, đất nước hưng thịnh."],
+      "answer": 3
+    },
+    {
+      "id": "mc36",
+      "question": "Năm 1397, Hồ Quý Ly đã cho thực hiện chính sách nào dưới đây?",
+      "options": ["Ban hành loại đồng tiền giấy “thông bảo hội sao”.", "Đặt phép hạn điền, nhằm hạn chế sở hữu ruộng tư.", "Chính sách hạn nô; kiểm soát hộ tịch trên cả nước.", "Thống nhất các đơn vị đo lường chung cho cả nước."],
+      "answer": 0
+    },
+    {
+      "id": "mc37",
+      "question": "Sau khi khởi nghĩa giành thắng lợi, Trưng Trắc đã",
+      "options": ["Duy trì chính sách cai trị của nhà Hán.", "Xưng vương, đóng đô ở Mê Linh.", "Lên ngôi vua, đặt tên nước là Vạn Xuân.", "Lên ngôi hoàng đế, đóng đô ở Cổ Loa."],
+      "answer": 1
+    },
+    {
+      "id": "mc38",
+      "question": "Nguyên nhân chủ quan nào dẫn đến thắng lợi của các cuộc chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam?",
+      "options": ["Quân giặc gặp nhiều khó khăn trong quá trình xâm lược đất nước người Việt", "Các cuộc chiến tranh xâm lược của thế lực ngoại bang mang tính phi nghĩa.", "Quân giặc không quen địa hình và điều kiện tự nhiên nhiên của nước Đại Việt.", "Kế sách đánh giặc đúng đắn, linh hoạt, nghệ thuật quân sự độc đáo, sáng tạo."],
+      "answer": 3
+    },
+    {
+      "id": "mc39",
+      "question": "Cuộc cải cách của vua Lê Thánh Tông có ý nghĩa như thế nào?",
+      "options": ["Tăng cường tiềm lực đất nước, góp phần vào chiến thắng chống quân Minh.", "Giúp giải quyết triệt để mọi mâu thuẫn trong xã hội Đại Việt đương thời.", "Tạo cơ sở cho Vương triều Lê sơ phát triển vững mạnh, đất nước hưng thịnh.", "Giúp Đại Việt giữ vững vị thế là cường quốc hùng mạnh nhất khu vực châu Á."],
+      "answer": 2
+    },
+    {
+      "id": "mc40",
+      "question": "Đầu năm 1076, hàng chục vạn quân Tống chia làm hai đạo tiến vào Đại Việt. Trên đường tiến quân về Thăng Long, quân Tống đã bị chặn lại ở",
+      "options": ["Ở cửa sông Như Nguyệt", "Ở bắc sông Như Nguyệt.", "Ở giữa sông Như Nguyệt", "Ở nam sông Như Nguyệt."],
+      "answer": 1
+    },
+    {
+      "id": "mc41",
+      "question": "Năm 1483, vua Lê Thánh Tông đã cho biên soạn và ban hành bộ luật nào?",
+      "options": ["Quốc triều hình luật.", "Hình thư luật", "Hoàng triều luật lệ.", "Luật Gia Long."],
+      "answer": 0
+    },
+    {
+      "id": "mc42",
+      "question": "Từ năm 1424 - 1425, nghĩa quân Lam Sơn đã giải phóng một vùng rộng lớn từ",
+      "options": ["Nam Định đến Thanh Hóa.", "Thanh Hóa đến đèo Hải Vân.", "Thanh Hóa tới Nghệ An.", "Nghệ An đến đèo Hải Vân."],
+      "answer": 1
+    },
+    {
+      "id": "mc43",
+      "question": "Điểm giống nhau trong cách đánh của quân Lam Sơn trong hai trận Tốt Động -Chúc Động và Chi Lăng - Xương Giang là gì?",
+      "options": ["Đóng cọc gỗ vạt nhọn trên sông để phục kích quân địch.", "Lợi dụng thủy chiến bố trí trận địa mai phục quân thù", "Vừa đánh vừa đàm phán ngoại giao với quân Minh", "Dựa vào địa hình để phục kích, tiêu hao sinh lực địch."],
+      "answer": 3
+    },
+    {
+      "id": "mc44",
+      "question": "Cuối năm 1427, nghĩa quân Lam Sơn đã giành chiến thắng ở",
+      "options": ["Tốt Động - Chúc Động.", "Rạch Gầm - Xoài Mút.", "Ngọc Hồi - Đống Đa.", "Chi Lăng - Xương Giang."],
+      "answer": 3
+    },
+    {
+      "id": "mc45",
+      "question": "Điểm giống nhau giữa khởi nghĩa Hai Bà Trưng năm 40 và khởi nghĩa Lý Bí năm 542 là gì?",
+      "options": ["Đều chống lại ách đô hộ thống trị của nhà Đường.", "Diễn ra qua hai giai đoạn khởi nghĩa và kháng chiến.", "Kháng chiến thắng lợi mở ra giai đoạn mới cho dân tộc.", "Đều chống lại ách đô hộ thống trị của nhà Hán."],
+      "answer": 1
+    },
+    {
+      "id": "mc46",
+      "question": "Trong cuộc chiến đấu với quân Xiêm (1785), cách đánh của quân Tây Sơn có điểm gì độc đáo?",
+      "options": ["Triệt để thực hiện kế sách “công tâm”.", "Thực hiện kế sách “vườn không nhà trống”.", "Nghi binh, lừa địch vào trận địa mai phục.", "Tấn công trước để chặn thế mạnh của địch."],
+      "answer": 2
+    },
+    {
+      "id": "mc47",
+      "question": "Cuộc cải cách của Hồ Quý Ly cuối thế kỉ XIV – đầu thế kỉ XV được nhận xét là",
+      "options": ["Tinh thần dân tộc nhưng sính ngoại.", "Vì lợi ích của giai cấp thống trị.", "Đậm nét dân tộc, không mô phỏng.", "Diến ra với nhịp độ nhanh kéo dài."],
+      "answer": 2
+    },
+    {
+      "id": "mc48",
+      "question": "Ý nào sau đây ĐÚNG về cải cách quân đội và quốc phòng dưới thời vua Lê Thánh Tông?",
+      "options": ["Quân đội được chia làm hai loại. quân thường trực và quân các đạo.", "Mỗi đạo chia binh làm 5 phủ quân do đô đốc phủ đứng đầu các phủ.", "Nhà nước tăng lương cho quân đội, tổ chức Hoa Sơn luận kiếm.", "Năm 1466, vua Lê Thánh Tông tiến hành cải tổ hệ thống quân đội."],
+      "answer": 3
+    },
+    {
+      "id": "mc49",
+      "question": "Nội dung nào sau đây KHÔNG phản ánh đúng tình hình Đàng Trong của Đại Việt vào giữa thế kỉ XVIII?",
+      "options": ["Đời sống nhân dân ấm no, thanh bình.", "Kinh tế Đàng Trong sa sút nghiêm trọng.", "Chính quyền phong kiến suy đồi.", "Đời sống nhân dân lao động cực khổ."],
+      "answer": 0
+    }
+  ],
+  "trueFalse": [
+    {
+      "id": "tf1",
+      "context": "Từ đầu thế kỷ XVI, các nước phương Tây bắt đầu mở rộng quá trình xâm nhập vào các nước Đông Nam Á. Trong thời gian đầu, quá trình này được tiến hành thông qua các hoạt động buôn bán và truyền giáo. Thông qua các thương điếm, các nước châu Âu mở rộng giao thương và từng bước chuẩn bị cho quá trình xâm lược. Quá trình xâm lược của thực dân phương Tây diễn ra trong bối cảnh phần lớn các nước Đông Nam Á bước vào thời kỳ suy thoái, khủng hoảng của chế độ phong kiến về chính trị, kinh tế, xã hội với nhiều cuộc nổi dậy chống lại chế độ phong kiến...",
+      "statements": [
+        { "text": "Từ đầu thế kỷ XVI, các nước phương Tây đã sử dụng vũ lực xâm lược khu vực Đông Nam Á.", "answer": false, "explanation": "Trong thời gian đầu, quá trình này được tiến hành thông qua các hoạt động buôn bán và truyền giáo, chưa sử dụng vũ lực ngay." },
+        { "text": "Khi thực dân phương Tây tới xâm lược, chế độ phong kiến ở Đông Nam Á đang khủng hoảng.", "answer": true, "explanation": "Đoạn trích nêu rõ: 'Quá trình xâm lược của thực dân phương Tây diễn ra trong bối cảnh phần lớn các nước Đông Nam Á bước vào thời kỳ suy thoái, khủng hoảng của chế độ phong kiến'." },
+        { "text": "Việc truyền giáo không liên quan đến quá trình xâm lược của phương Tây với Đông Nam Á.", "answer": false, "explanation": "Hoạt động buôn bán và truyền giáo là bước chuẩn bị cho quá trình xâm lược." },
+        { "text": "Tất cả các nước Đông Nam Á đều bị xâm lược và trở thành thuộc địa của thực dân", "answer": false, "explanation": "Xiêm (Thái Lan) là nước duy nhất ở Đông Nam Á giữ được nền độc lập tương đối." }
+      ]
+    },
+    {
+      "id": "tf2",
+      "context": "Chiến tranh bảo vệ tổ quốc có vai trò quan trọng đối với sự sinh tồn và phát triển của dân tộc Việt Nam. Thắng lợi của những cuộc kháng chiến góp phần bảo vệ vững chắc nền độc lập, giữ gìn bản sắc văn hóa và tạo điều kiện thuận lợi cho quá trình xây dựng đất nước...Chiến tranh bảo vệ tổ quốc còn có ý nghĩa to lớn trong việc hình thành và nâng cao lòng tự hào, ý thức tự cường và tô đậm những truyền thống tốt đẹp của dân tộc, đồng thời để lại nhiều bài học kinh nghiệm sâu sắc...",
+      "statements": [
+        { "text": "Nhân dân Việt Nam tiến hành chiến tranh bảo vệ tổ quốc nhằm mở rộng lãnh thổ quốc gia.", "answer": false, "explanation": "Mục đích là bảo vệ sự sinh tồn, phát triển của dân tộc, bảo vệ nền độc lập, không phải để mở rộng lãnh thổ." },
+        { "text": "Chiến tranh bảo vệ tổ quốc góp phần hình thành nên truyền thống yêu nước của dân tộc.", "answer": true, "explanation": "Đoạn trích nêu: 'Chiến tranh bảo vệ tổ quốc còn có ý nghĩa to lớn trong việc hình thành và nâng cao lòng tự hào, ý thức tự cường và tô đậm những truyền thống tốt đẹp của dân tộc'." },
+        { "text": "Tất cả các cuộc chiến tranh bảo vệ tổ quốc trong lịch sử dân tộc đều giành được thắng lợi.", "answer": false, "explanation": "Trong lịch sử có những cuộc kháng chiến thất bại (như kháng chiến chống Minh của nhà Hồ, chống Pháp của nhà Nguyễn)." },
+        { "text": "Chiến tranh bảo vệ tổ quốc đã góp phần gìn giữ văn hóa và truyền thống dân tộc Việt Nam.", "answer": true, "explanation": "Đoạn trích khẳng định: 'góp phần bảo vệ vững chắc nền độc lập, giữ gìn bản sắc văn hóa'." }
+      ]
+    },
+    {
+      "id": "tf3",
+      "context": "Lịch sử chống ngoại xâm vừa thử thách, vừa tôi luyện dân tộc ta. Những cuộc chiến tranh yêu nước đã tạo nên cho dân tộc ta một bản lĩnh kiên cường, một sức sống bền bỉ, mãnh liệt, đã hun đúc nên nhiều truyền thống tốt đẹp, tiêu biểu là: lòng yêu nước tha thiết, ý chí độc lập tự chủ mạnh mẽ, tinh thần đoàn kết keo sơn, chí quật cường bất khuất, trí thông minh sáng tạo…",
+      "statements": [
+        { "text": "Dựng nước gắn liền với giữ nước là bài học kinh nghiệm quý báu được rút ra từ các cuộc kháng chiến chống ngoại xâm.", "answer": true, "explanation": "Đây là quy luật tồn tại và phát triển của dân tộc Việt Nam." },
+        { "text": "Từ lịch sử chống ngoại xâm, Việt Nam muốn xây dựng đất nước lớn mạnh, trước hết phải liên kết với các nước lớn.", "answer": false, "explanation": "Sức mạnh bảo vệ tổ quốc bắt nguồn từ tinh thần đoàn kết, ý chí độc lập tự chủ của toàn dân tộc, không phải dựa vào nước lớn." },
+        { "text": "Truyền thống yêu nước, đoàn kết được hun đúc qua các cuộc kháng chiến chống ngoại xâm của dân tộc.", "answer": true, "explanation": "Đoạn trích nêu rõ: 'đã hun đúc nên nhiều truyền thống tốt đẹp, tiêu biểu là: lòng yêu nước tha thiết... tinh thần đoàn kết keo sơn'." },
+        { "text": "Chiến tranh bảo vệ Tổ quốc có vai trò quan trọng đối với sự sinh tồn và phát triển của đất nước.", "answer": true, "explanation": "Bảo vệ độc lập là điều kiện tiên quyết để đất nước tồn tại và phát triển." }
+      ]
+    },
+    {
+      "id": "tf4",
+      "context": "Chúng lập ba chế độ khác nhau ở Trung, Nam, Bắc để ngăn cản việc thống nhất nước nhà của ta, để ngăn cản dân tộc ta đoàn kết. … Chúng ràng buộc dư luận, thi hành chính sách ngu dân. Chúng dùng thuốc phiện, rượu cồn để làm cho nòi giống ta suy nhược. …Về kinh tế, chúng bóc lột dân ta đến tận xương tủy, khiến cho dân ta nghèo nàn, thiếu thốn, nước ta xơ xác, tiêu điều.",
+      "statements": [
+        { "text": "Những tội ác của chính quyền thực dân đối với nhân dân ta được thể hiện toàn diện trên các lĩnh vực chính trị, kinh tế, văn hóa, giáo dục.", "answer": true, "explanation": "Đoạn trích đề cập đến chia để trị (chính trị), ngu dân (văn hóa - giáo dục), bóc lột tận xương tủy (kinh tế)." },
+        { "text": "Đoạn trích trong bản Tuyên ngôn Độc lập của Hồ Chí Minh tập trung tố cáo tội ác của phát xít Nhật trong quá trình thống trị Việt Nam.", "answer": false, "explanation": "Đoạn trích này tố cáo tội ác của thực dân Pháp, không phải phát xít Nhật." },
+        { "text": "…“ràng buộc dư luận”, “chính sách ngu dân”, “dùng thuốc phiện, rượu cồn” là những chính sách và tội ác của chính quyền thực dân trên lĩnh vực chính trị.", "answer": false, "explanation": "Đây là các chính sách trên lĩnh vực văn hóa - xã hội, không phải chính trị." },
+        { "text": "Một trong những chính sách cai trị của chính quyền thực dân được nhắc đến trong đoạn trích là chính sách “chia để trị”.", "answer": true, "explanation": "Câu 'Chúng lập ba chế độ khác nhau ở Trung, Nam, Bắc' chính là thâm độc của chính sách chia để trị." }
+      ]
+    },
+    {
+      "id": "tf5",
+      "context": "Điểm chung của chính sách thống trị thực dân ở Đông Nam Á là khai thác, vơ vét và bòn rút các quốc gia trong khu vực bằng chính sách thuế khóa đánh vào các tầng lớp nhân dân bản địa, cướp ruộng đất lập đồn điền, bóc lột sức người, khai thác tài nguyên; thông qua khai thác triệt để sản phẩm nông nghiệp, tiếp tục đầu tư để bóc lột lâu dài trong công nghiệp… Vì vậy, cao su, cà phê, chè, lúa gạo là những sản vật đặc trưng của Đông Nam Á được thực dân phương Tây chú ý khai thác từ sớm",
+      "statements": [
+        { "text": "Đoạn trích cung cấp thông tin về chính sách khai thác, bóc lột của thực dân phương Tây đối với khu vực Đông Nam Á.", "answer": true, "explanation": "Đoạn trích mô tả chi tiết các hình thức bóc lột: thuế khóa, cướp ruộng đất, bóc lột sức người, khai thác tài nguyên." },
+        { "text": "Trong công nghiệp, thực dân phương Tây tìm cách vơ vét, bòn rút các nước Đông Nam Á thông qua việc cướp ruộng đất lập đồn điền.", "answer": false, "explanation": "Cướp ruộng đất lập đồn điền là chính sách trong nông nghiệp, không phải công nghiệp." },
+        { "text": "Những sản vật được coi là thế mạnh của các nước Đông Nam Á được thực dân phương Tây chú ý đầu tư khai thác sớm để thu lợi nhuận cao.", "answer": true, "explanation": "Đoạn trích nêu: 'cao su, cà phê, chè, lúa gạo là những sản vật đặc trưng... được chú ý khai thác từ sớm'." },
+        { "text": "Khai thác tài nguyên thiên nhiên không phải là điểm chung trong chính sách cai trị của thực dân phương Tây ở Đông Nam Á.", "answer": false, "explanation": "Đoạn trích khẳng định 'khai thác tài nguyên' là một trong những điểm chung của chính sách thống trị." }
+      ]
+    },
+    {
+      "id": "tf6",
+      "context": "Các cuộc kháng chiến bảo vệ độc lập dân tộc của Việt Nam mang tính chính nghĩa, chống kẻ thù xâm lược. Vì thế đã huy động được sức mạnh toàn dân, hình thành thế trận \"cả nước đánh giặc, toàn dân là lính\". Truyền thống yêu nước và ý chí kiên cường bất khuất trong đấu tranh bảo vệ nền độc lập của nhân dân Đại Việt là nhân tố quyết định thắng lợi của các cuộc kháng chiến. Có đội ngũ những nhà lãnh đạo và tướng lĩnh mưu lược, tài giỏi, biết vận dụng đúng đắn, sáng tạo, truyền thống và nghệ thuật quân sự vào thực tiễn các cuộc kháng chiến.",
+      "statements": [
+        { "text": "Chiến tranh bảo vệ tổ quốc là các cuộc chiến tranh mang tính chính nghĩa, tiến bộ.", "answer": true, "explanation": "Đoạn trích mở đầu bằng câu: 'Các cuộc kháng chiến bảo vệ độc lập dân tộc của Việt Nam mang tính chính nghĩa'." },
+        { "text": "Nhân tố quyết định thắng lợi trong các cuộc kháng chiến là sự lãnh đạo của đảng.", "answer": false, "explanation": "Trong lịch sử phong kiến chưa có Đảng. Đoạn trích nêu: 'Truyền thống yêu nước và ý chí kiên cường... là nhân tố quyết định thắng lợi'." },
+        { "text": "Nội dung quan trọng nhất trong đường lối kháng chiến của Việt Nam là toàn dân.", "answer": true, "explanation": "Đoạn trích nhấn mạnh việc 'huy động được sức mạnh toàn dân, hình thành thế trận cả nước đánh giặc, toàn dân là lính'." },
+        { "text": "Nghệ thuật quân sự Việt Nam luôn được kế thừa và phát huy trong kháng chiến.", "answer": true, "explanation": "Đoạn trích nhắc đến việc các tướng lĩnh 'biết vận dụng đúng đắn, sáng tạo, truyền thống và nghệ thuật quân sự vào thực tiễn'." }
+      ]
+    }
+  ],
+  "essay": [
+    {
+      "id": "es1",
+      "question": "Khái quát về chiến tranh bảo vệ Tổ quốc trong lịch sử Việt Nam",
+      "sampleAnswer": "Chiến tranh bảo vệ Tổ quốc có vai trò quyết định đối với sự sinh tồn và phát triển của dân tộc Việt Nam. Thắng lợi của các cuộc kháng chiến đã bảo vệ vững chắc nền độc lập, giữ gìn bản sắc văn hóa và tạo điều kiện cho đất nước phát triển. Đồng thời, nó hun đúc nên truyền thống yêu nước, đoàn kết, ý chí tự cường và để lại nhiều bài học kinh nghiệm quân sự quý báu (như nghệ thuật chiến tranh nhân dân, lấy ít địch nhiều)."
+    }
+  ]
+}
